@@ -1,4 +1,4 @@
-# scum-allow-mods v0.1.0
+# SCUM-AllowMods v0.1.0
 
 A drop-in install bundle that re-enables loading of **unsigned PAK mods** in **SCUM** after the developers blocked the `-fileopenlog` modding workflow in late April 2026.
 
