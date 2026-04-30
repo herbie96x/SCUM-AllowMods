@@ -1,8 +1,8 @@
 # SCUM-AllowMods v0.1.0
 
-![Version](https://img.shields.io/github/v/release/herbie96x/SCUM-AllowMods?label=version)
-![License](https://img.shields.io/github/license/herbie96x/SCUM-AllowMods)
-![Downloads](https://img.shields.io/github/downloads/herbie96x/SCUM-AllowMods/total)
+![Version](https://img.shields.io/github/v/release/herbie96x/SCUM-AllowMods?label=version&v=2)
+![License](https://img.shields.io/github/license/herbie96x/SCUM-AllowMods?v=2)
+![Downloads](https://img.shields.io/github/downloads/herbie96x/SCUM-AllowMods/total?v=2)
 ![SCUM](https://img.shields.io/badge/game-SCUM-orange)
 ![UE4SS](https://img.shields.io/badge/UE4SS-3.0.1--946-blue)
 
