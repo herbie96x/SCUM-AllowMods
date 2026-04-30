@@ -1,5 +1,11 @@
 # SCUM-AllowMods v0.1.0
 
+![Version](https://img.shields.io/github/v/release/herbie96x/SCUM-AllowMods?label=version)
+![License](https://img.shields.io/github/license/herbie96x/SCUM-AllowMods)
+![Downloads](https://img.shields.io/github/downloads/herbie96x/SCUM-AllowMods/total)
+![SCUM](https://img.shields.io/badge/game-SCUM-orange)
+![UE4SS](https://img.shields.io/badge/UE4SS-3.0.1--946-blue)
+
 A drop-in install bundle that re-enables loading of **unsigned PAK mods** in **SCUM** after the developers blocked the `-fileopenlog` modding workflow in late April 2026.
 
 This bundle contains:
