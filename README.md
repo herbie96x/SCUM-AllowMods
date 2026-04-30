@@ -6,7 +6,7 @@
 ![SCUM](https://img.shields.io/badge/game-SCUM-orange)
 ![UE4SS](https://img.shields.io/badge/UE4SS-3.0.1--946-blue)
 
-A drop-in install bundle that re-enables loading of **unsigned PAK mods** in **SCUM** after the developers blocked the `-fileopenlog` modding workflow in late April 2026.
+A drop-in install bundle that re-enables loading of **unsigned PAK mods** in **SCUM** after the developers blocked the `-fileopenlog` modding workflow in late April 2026. 
 
 This bundle contains:
 - **UE4SS Experimental v3.0.1-946** (commit `265115c0`) — official upstream release
