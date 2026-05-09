@@ -6,6 +6,12 @@
 ![SCUM](https://img.shields.io/badge/game-SCUM-orange)
 ![UE4SS](https://img.shields.io/badge/UE4SS-3.0.1--946-blue)
 
+# ⚠️ STATUS UPDATE — SCUM Hotfix (07.05.2026)
+
+Gamepires has restored support for .pak loading on clients. For that standard modding workflow, **this mod is no longer required**.
+
+---
+
 A drop-in install bundle that re-enables loading of **unsigned PAK mods** in **SCUM** after the developers blocked the `-fileopenlog` modding workflow in late April 2026. 
 
 This bundle contains:
